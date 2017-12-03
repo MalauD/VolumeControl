@@ -1,0 +1,14 @@
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\bin\Debug\VolumeControl.exe.config
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\bin\Debug\VolumeControl.exe
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\bin\Debug\VolumeControl.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\bin\Debug\ArduCSharp.dll
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\bin\Debug\ArduCSharp.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\obj\Debug\VolumeControl.csprojResolveAssemblyReference.cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\obj\Debug\VolumeControl.Form1.resources
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\obj\Debug\VolumeControl.Properties.Resources.resources
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\obj\Debug\VolumeControl.csproj.GenerateResource.Cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\obj\Debug\VolumeControl.csproj.CoreCompileInputs.cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\obj\Debug\VolumeControl.exe
+C:\Users\malau\Documents\Visual Studio 2017\Projects\VolumeControl\VolumeControl\obj\Debug\VolumeControl.pdb
